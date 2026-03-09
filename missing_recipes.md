@@ -1,0 +1,63 @@
+# Recipes Missing Images
+
+Here is the list of recipes that could not be automatically matched with a high-quality online image. You can manually find images for these and add their paths to `Recipes_with_Images.csv`.
+
+- [ ] **Drop Scones**
+- [ ] **Qita (Maize & Wheat Flour Pancake)**
+- [ ] **Mseto wa Maharagwe  (Rice with Beans)**
+- [ ] **Mseto wa Viazi (Potatoes in rice)**
+- [ ] **Steamed Rice (Wali wa Mvuke)**
+- [ ] **Mcheleng (Rice with milk)**
+- [ ] **Wukunu (Sweet Potatoes & Dehulled Black Beans)**
+- [ ] **Kimito (Mashed Beans & Potatoes)**
+- [ ] **Ashir(maize)**
+- [ ] **Githeri (Fresh Beans and Maize)**
+- [ ] **Githeri (Stewed Maize & Beans)**
+- [ ] **Muthokoi (Dehulled Maize and Beans)**
+- [ ] **Nchenga/ Nzenga  (Crushed Maize)**
+- [ ] **Mchuzi wa Ndengu  (Green Gram Stew)**
+- [ ] **Bean Stew with  Milk & Cream**
+- [ ] **Beef Stew**
+- [ ] **Stir Fried  Goat Meat**
+- [ ] **Stir Fried Beef**
+- [ ] **Stewed Dried Fish**
+- [ ] **Stewed Goat Meat**
+- [ ] **Ikalanga (Sheep Tail Fat)**
+- [ ] **Qanchibelo  (Beef, Maize & Wheat Flour mix)**
+- [ ] **Fried egg  (Mayai Ya Kukaangwa)**
+- [ ] **Omelette**
+- [ ] **Ingokho (Fried Chicken)**
+- [ ] **Aluru  (Stewed Quails)**
+- [ ] **Likhanga  Stewed Guinea Fowl**
+- [ ] **Munono (Cow Blood, Beef, Cow Fat)**
+- [ ] **Malesele (Cow Blood with Sour Milk)**
+- [ ] **Mbuboyi  (Blood Cooked in Fresh Milk)**
+- [ ] **Osarge Ogkole (Fresh Blood and Milk Soup)**
+- [ ] **Sukuma Wiki (Stir-fried Kales)**
+- [ ] **Stir-fried Cabbage**
+- [ ] **Saget, Terere  & Managu  (Stewed Spider Plant, Amaranth & African Nightshade Leaves)**
+- [ ] **Nderema (Vine Spinach)**
+- [ ] **Mashed Pumpkin  & Black Nightshade  Leaves(Managu)**
+- [ ] **Thabai / Thaa  (Stinging Nettle Leaves)**
+- [ ] **Rhikhuvi (Stewed Cowpea Leaves)**
+- [ ] **Potato Curry**
+- [ ] **Peas & Brinjal Curry**
+- [ ] **Split Dal Stewed**
+- [ ] **Chick Peas Curry**
+- [ ] **Stewed Potatoes  & Arrowroots**
+- [ ] **Yam Stew**
+- [ ] **Pumpkins with  Peanut Butter**
+- [ ] **Arrowroot Stew**
+- [ ] **Pan Fried Sweet  Potatoes**
+- [ ] **Potato Chips**
+- [ ] **Whole Maize  Flour Ugali**
+- [ ] **Refined Maize  Flour Ugali**
+- [ ] **Cassava Flour  Ugali**
+- [ ] **Cassava, Finger Millet  & Sorghum Flour  Ugali**
+- [ ] **White Chapati**
+- [ ] **Brown Chapati**
+- [ ] **Roti  (Indian Chapati)**
+- [ ] **Bhature  (Fried Indian Bread)**
+- [ ] **Vimumunya vya  Sukari  (Sweetened Pumpkin & Coconut Milk)**
+- [ ] **Chaas (Diluted Yoghurt)**
+- [ ] **Groundnut Sauce**
